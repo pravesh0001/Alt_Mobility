@@ -86,3 +86,4 @@ Sharp decline in customer retention after the first month.
 Clear customer segmentation was visible based on order frequency.
 
 Seasonal spikes in sales were observed during certain months.
+![Screenshot (438)](https://github.com/user-attachments/assets/53964c7f-fd75-41fc-b17d-2f816d43b461)
